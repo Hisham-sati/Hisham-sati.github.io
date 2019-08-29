@@ -4,8 +4,14 @@ title: about
 logo: "images/author.jpg"
 permalink: "/about/"
 --- 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+Hisham Sati comes to NYU Abu Dhabi from the University of Pittsburgh, where he supervised four PhD students and taught courses at all levels, including advanced graduate and research topics. Earlier, he was a Gibbs Assistant Professor at Yale University, a Visiting Assistant Professor at the University of Maryland College Park, and a joint Research Associate at Australian National University and the University of Adelaide.
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+Sati was awarded grants from the US National Science Foundation and other sources for his interdisciplinary research on geometric aspects of physical theories. He has been a visiting researcher to various Math and Physics institutes around the world, including CERN in Geneva, MSRI in Berkeley, The Max Planck Institute in Bonn, The Erwin Schroedinger Institute in Vienna, IHES and IHP in Paris, and The Kavli Institute for Theoretical Physics in Santa Barbara.
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+He has co-organized several seminars, journal clubs, and over ten workshops and scientific meetings. His recent recognitions include delivering the Adams Memorial Lecture in Topology at the University of Manchester in 2016. Sati's publications range from pure physics to pure mathematics, but are mostly on the interactions between the two subjects, with physics being the motivation and source of interesting problems, whose solutions also lead to new and interesting mathematical structures and constructions.
+
+At NYUAD, in addition to the capstone and undergraduate math courses, he teaches a core course on a topic which is at the heart of his research: "Theory of Everything".
+
+Here is a placeholder [CV(inside about folder)](replacewithCV.pdf)
+
+

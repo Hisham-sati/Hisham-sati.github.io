@@ -1,12 +1,15 @@
 {% if page.header %}
   <header role="banner" id="header">
       <div class="site-header medium-12 columns">
-        <nav class="hide-for-small-only hide-for-ipad">
-          {% include socials.html %}
-        </nav>
+        <ul class="menu">  
+          <li class="header-nav">
+          <a href="{{ site.github.url }}/"><big>Hisham Sati</big></a>
+          </li>
+        </ul>
         <div class="header-logo wraptainer">
           <a href="{{ site.github.url }}/"><img src="{{ site.github.url }}/{{ page.header }}" alt="{{ site.title }} banner image" title="{{ site.title }} banner image" class="center"></a>
         </div>
+        <br>
         <nav class="hide-for-small-only hide-for-ipad">
           {% include navigation.html %}
         </nav>
@@ -16,12 +19,18 @@
   {% elsif site.header %}
     <header role="banner" id="header" class="small-12 medium-3 columns">
       <div class="site-header medium-12 columns">
-        <nav class="hide-for-small-only hide-for-ipad">
-          {% include socials.html %}
-        </nav>
+        <br><br>
+        <ul class="menu">  
+          <li class="header-nav">
+          <a href="{{ site.github.url }}/"><big>Hisham Sati</big></a>
+          </li>
+          <font size="3", color = "#b2bec3">Professor of Mathematics,</font>
+          <font size="2", color = "#b2bec3">NYU Abu Dhabi</font>
+        </ul>
         <div class="header-logo wraptainer">
           <a href="{{ site.github.url }}/"><img src="{{ site.github.url }}/{{ site.header }}" alt="{{ site.title }} banner image" title="{{ site.title }} banner image" class="center"></a>
         </div>
+        <br><br>
         <nav class="hide-for-small-only hide-for-ipad">
           {% include navigation.html %}
         </nav>

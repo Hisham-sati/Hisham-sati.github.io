@@ -1,19 +1,19 @@
 # Site settings
-title: Starving Artist Jekyll Theme
-email: ctarwater@chrisanthropic.com
-author: Chrisanthropic
+title: Hisham Sati
+email: hsati@gmail.com
+author: Hisham Sati
 
 keywords: jekyll, jekyll theme, portfolio theme, artist theme
-description: Witty description here.
+description: Hisham Sati's Personal website
 
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "https://chrisanthropic.github.io/starving-artist-jekyll-theme"
+  url: ""
 
 header: images/logo.png
 
 # Formspree contact Form
-contact_form: "https://formspree.io/ctarwater@chrisanthropic.com"
+contact_form: ""
 
 
 # Exclude our ruby stuff
@@ -59,5 +59,5 @@ facebook_image: images/author.jpg                      #enter a default image (a
 
 # Twitter Cards
 twitter_user: 
-twitter_card: true
+twitter_card: false
 twitter_image: images/author.jpg                       #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
