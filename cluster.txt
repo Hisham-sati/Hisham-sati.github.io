@@ -1,0 +1,9 @@
+nischmaina%ra : Nischal101
+
+nischal.mainali@bs-cluster.elsc.huji.ac.il : (standard)
+
+notes:
+qstat -g c : what's up?
+qstat: what's up with me?
+qsub: submit script
+bash code?

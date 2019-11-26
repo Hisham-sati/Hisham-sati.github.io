@@ -12,6 +12,6 @@ He has co-organized several seminars, journal clubs, and over ten workshops and 
 
 At NYUAD, in addition to the capstone and undergraduate math courses, he teaches a core course on a topic which is at the heart of his research: "Theory of Everything".
 
-Here is a placeholder [CV(inside about folder)](replacewithCV.pdf)
+Here is my [CV.](CV.pdf)
 
 
